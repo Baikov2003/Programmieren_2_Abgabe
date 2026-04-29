@@ -1,0 +1,14 @@
+package org.example;
+
+// vor Ausführung von gradle spotlessApply
+public class Main {public static void main(String[] args) {System.out.println("Hello World");}}
+
+// nach gradle spotlessApply
+public class Main {
+  public static void main(String[] args) {
+    System.out.println("Hello World");
+  }
+}
+
+
+//Nach durchführung des Befehls „gradle spotlessApply“ im Terminal, wird die Struktur des Codes übersichtlicher und schöner gestaltet. 
