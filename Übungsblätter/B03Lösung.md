@@ -125,7 +125,6 @@ https://github.com/Baikov2003/prog2_ybel_locksnake.git
 4. Observer-Pattern Umsetzung
 5. JUnit Tests (GameState)
 6. Verwendung von Lambdas & Methodenreferenzen
-7. Fazit
 
 ---
 
